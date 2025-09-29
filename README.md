@@ -21,5 +21,5 @@ The EDA was conducted using Python with the Pandas, Matplotlib, and Seaborn libr
 ## How to Run
 1.  Ensure you have Python and the required libraries (pandas, seaborn, matplotlib) installed.
 2.  Clone this repository.
-3.  Open the `Titanic_EDA_Template (1).ipynb` file in Jupyter Notebook or JupyterLab.
+3.  Open the `Titanic_EDA_Template.ipynb` file in Jupyter Notebook or JupyterLab.
 4.  Run the cells sequentially to reproduce the analysis.
